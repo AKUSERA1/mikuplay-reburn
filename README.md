@@ -53,7 +53,7 @@
 
 ## 平台支持
 
-- 最低 Android 12（API 31）
+- 最低 Android 9（API 28）
 
 ## 许可
 
